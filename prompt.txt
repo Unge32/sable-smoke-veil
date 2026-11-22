@@ -1,0 +1,15 @@
+SABLE — Smoke & Sapphire
+=======================
+A single-room night heist in the Grand Gallery museum, shown in one full 1280x720 frame with no scrolling.
+
+You are Sable, a cat burglar in a midnight-blue coat. Cross the gallery, steal the Sapphire of the Tide from its pedestal, grab up to three optional trinkets, and slip out the getaway door — without letting the alarm meter hit 100.
+
+Signature mechanic — Smoke Veil (Space): throw a smoke bomb that blinds guard vision cones and wall cameras for 6 seconds. 3 veils to start, +1 per trinket, max 5. The nearest guard walks over to investigate the smoke.
+
+Three guards on patrol — Bram, Pip, Odo — with visible vision cones, plus two sweeping wall cameras. Being seen raises the alarm (about 1.5–2.5 seconds of exposure before you are caught); break line of sight behind pedestals, display cases and crates and the alarm cools down. Sneak (Shift) to move slower and quieter. A Decoy coin (E, costs 100 loot) lures the nearest guard away.
+
+Three routes: the main floor, the balcony above, or the service corridor below. Plan the route, spend the veils, get out rich.
+
+Controls: WASD / arrows to move, Shift sneak, Space smoke veil, E decoy, P pause, Enter start. Mouse click also starts. Synthesized sound effects, no external files. Autopilot bot (autopilot.js) plays the whole heist and wins.
+
+Owner's order (22 Nov 13:34 WIB): "Gas, bangun heist game best-heist-game-20261122-0559".
